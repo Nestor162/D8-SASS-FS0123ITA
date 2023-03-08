@@ -1,0 +1,18 @@
+$space-size: (
+  sm: 1rem,
+  normal: 1.5rem,
+  md: 2rem,
+  lg: 2.5rem,
+  xl: 3rem,
+  xxl: 4rem,
+);
+
+@each $key, $value in $space-size {
+  .p-bl-#{$key} {
+    padding-block: $value;
+  }
+
+  .p-in-#{$key} {
+    padding-inline: $value;
+  }
+}
