@@ -260,4 +260,16 @@ body {
 h1 {
   font-size: 28px;
   color: black;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: space-around;
 }/*# sourceMappingURL=style.css.map */
