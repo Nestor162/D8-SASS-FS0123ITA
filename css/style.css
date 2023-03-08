@@ -269,6 +269,14 @@ main {
   flex-direction: column;
   background-color: #640fc5;
 }
+main img {
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+main div {
+  display: flex;
+  flex-direction: row;
+}
 
 header {
   background-color: #418bff;
