@@ -276,5 +276,5 @@ header nav {
 }
 header nav ul {
   display: flex;
-  justify-content: space-around;
+  gap: 20px;
 }/*# sourceMappingURL=style.css.map */
