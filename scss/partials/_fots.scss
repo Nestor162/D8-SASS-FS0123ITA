@@ -1,0 +1,15 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+$fs-1: 32px;
+$fs-2: 28px;
+$fs-3: 24px;
+$fs-4: 18px;
+$fs-5: 14px;
+$fs-6: 12px;
+
+@mixin title-big {
+  font-size: $fs-2;
+  margin-bottom: 5px;
+}
