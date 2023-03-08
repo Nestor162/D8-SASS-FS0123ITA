@@ -237,6 +237,7 @@ button {
   width: 100px;
   height: 45px;
   display: inline-block;
+  color: #f4f4f4;
   cursor: pointer;
 }
 
