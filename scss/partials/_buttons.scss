@@ -1,0 +1,13 @@
+@import "colors";
+
+.btn-base {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.btn-1 {
+  @extend .btn-base;
+  background-color: $color-btn-1;
+}

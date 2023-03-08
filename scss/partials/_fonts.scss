@@ -1,6 +1,4 @@
-body {
-  font-family: "Rubik", sans-serif;
-}
+$main-font: "Rubik";
 
 $fs-1: 32px;
 $fs-2: 28px;
@@ -11,5 +9,4 @@ $fs-6: 12px;
 
 @mixin title-big {
   font-size: $fs-2;
-  margin-bottom: 5px;
 }
