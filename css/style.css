@@ -267,10 +267,11 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: #640fc5;
 }
 
 header {
-  background-color: #0e6cff;
+  background-color: #418bff;
 }
 header nav {
   display: flex;

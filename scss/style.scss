@@ -17,10 +17,11 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: $bg-hero;
 }
 
 header {
-  background-color: $color-btn-1;
+  background-color: lighten($color-btn-1, 10%);
   nav {
     display: flex;
     align-items: center;
