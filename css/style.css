@@ -133,6 +133,10 @@ table {
   border-spacing: 0;
 }
 
+button {
+  border: 0;
+}
+
 .p-bl-sm {
   padding-block: 1rem;
 }
@@ -229,15 +233,24 @@ table {
   padding-block: 4rem;
 }
 
-.btn-base, .btn-1 {
+.btn-base, .btn-3, .btn-2, .btn-1 {
   width: 100px;
-  height: 100px;
+  height: 45px;
+  border-radius: 15px;
   display: inline-block;
   cursor: pointer;
 }
 
 .btn-1 {
   background-color: #0e6cff;
+}
+
+.btn-2 {
+  background-color: #ff8700;
+}
+
+.btn-3 {
+  background-color: #4caf50;
 }
 
 body {
