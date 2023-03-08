@@ -269,6 +269,11 @@ main {
   flex-direction: column;
 }
 
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 header nav ul {
   display: flex;
   justify-content: space-around;

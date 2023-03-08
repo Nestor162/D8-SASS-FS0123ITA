@@ -21,6 +21,9 @@ main {
 
 header {
   nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     ul {
       display: flex;
       justify-content: space-around;
