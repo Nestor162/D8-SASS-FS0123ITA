@@ -269,6 +269,9 @@ main {
   flex-direction: column;
 }
 
+header {
+  background-color: #0e6cff;
+}
 header nav {
   display: flex;
   align-items: center;
