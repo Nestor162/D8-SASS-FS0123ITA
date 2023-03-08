@@ -273,6 +273,7 @@ main {
 main img {
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 100%;
 }
 main p {
   color: #f4f4f4;
@@ -282,7 +283,10 @@ main div {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 5px;
+  gap: 25px;
+}
+main div div.img-container {
+  flex-basis: 100%;
 }
 
 header {
