@@ -6,12 +6,28 @@
   padding-inline: 1rem;
 }
 
+.m-bl-sm {
+  margin-block: 1rem;
+}
+
+.m-in-sm {
+  padding-block: 1rem;
+}
+
 .p-bl-normal {
   padding-block: 1.5rem;
 }
 
 .p-in-normal {
   padding-inline: 1.5rem;
+}
+
+.m-bl-normal {
+  margin-block: 1.5rem;
+}
+
+.m-in-normal {
+  padding-block: 1.5rem;
 }
 
 .p-bl-md {
@@ -22,12 +38,28 @@
   padding-inline: 2rem;
 }
 
+.m-bl-md {
+  margin-block: 2rem;
+}
+
+.m-in-md {
+  padding-block: 2rem;
+}
+
 .p-bl-lg {
   padding-block: 2.5rem;
 }
 
 .p-in-lg {
   padding-inline: 2.5rem;
+}
+
+.m-bl-lg {
+  margin-block: 2.5rem;
+}
+
+.m-in-lg {
+  padding-block: 2.5rem;
 }
 
 .p-bl-xl {
@@ -38,10 +70,26 @@
   padding-inline: 3rem;
 }
 
+.m-bl-xl {
+  margin-block: 3rem;
+}
+
+.m-in-xl {
+  padding-block: 3rem;
+}
+
 .p-bl-xxl {
   padding-block: 4rem;
 }
 
 .p-in-xxl {
   padding-inline: 4rem;
+}
+
+.m-bl-xxl {
+  margin-block: 4rem;
+}
+
+.m-in-xxl {
+  padding-block: 4rem;
 }/*# sourceMappingURL=style.css.map */

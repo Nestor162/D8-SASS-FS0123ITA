@@ -11,8 +11,14 @@ $space-size: (
   .p-bl-#{$key} {
     padding-block: $value;
   }
-
   .p-in-#{$key} {
     padding-inline: $value;
+  }
+
+  .m-bl-#{$key} {
+    margin-block: $value;
+  }
+  .m-in-#{$key} {
+    padding-block: $value;
   }
 }
