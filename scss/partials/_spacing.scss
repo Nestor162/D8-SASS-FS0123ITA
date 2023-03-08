@@ -19,6 +19,6 @@ $space-size: (
     margin-block: $value;
   }
   .m-in-#{$key} {
-    padding-block: $value;
+    padding-inline: $value;
   }
 }
