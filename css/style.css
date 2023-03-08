@@ -150,7 +150,7 @@ button {
 }
 
 .m-in-sm {
-  padding-block: 1rem;
+  margin-inline: 1rem;
 }
 
 .p-bl-normal {
@@ -166,7 +166,7 @@ button {
 }
 
 .m-in-normal {
-  padding-block: 1.5rem;
+  margin-inline: 1.5rem;
 }
 
 .p-bl-md {
@@ -182,7 +182,7 @@ button {
 }
 
 .m-in-md {
-  padding-block: 2rem;
+  margin-inline: 2rem;
 }
 
 .p-bl-lg {
@@ -198,7 +198,7 @@ button {
 }
 
 .m-in-lg {
-  padding-block: 2.5rem;
+  margin-inline: 2.5rem;
 }
 
 .p-bl-xl {
@@ -214,7 +214,7 @@ button {
 }
 
 .m-in-xl {
-  padding-block: 3rem;
+  margin-inline: 3rem;
 }
 
 .p-bl-xxl {
@@ -230,13 +230,12 @@ button {
 }
 
 .m-in-xxl {
-  padding-block: 4rem;
+  margin-inline: 4rem;
 }
 
 .btn-base, .btn-3, .btn-2, .btn-1 {
   width: 100px;
   height: 45px;
-  border-radius: 15px;
   display: inline-block;
   cursor: pointer;
 }
