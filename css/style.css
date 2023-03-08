@@ -300,4 +300,8 @@ header nav {
 header nav ul {
   display: flex;
   gap: 20px;
+}
+header nav ul li a {
+  color: #f4f4f4;
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */

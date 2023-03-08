@@ -49,6 +49,13 @@ header {
     ul {
       display: flex;
       gap: 20px;
+
+      li {
+        a {
+          color: $text-color;
+          text-decoration: none;
+        }
+      }
     }
   }
 }
