@@ -10,4 +10,5 @@ $fs-6: 12px;
 @mixin title-big($color) {
   font-size: $fs-1;
   color: $color;
+  font-weight: bold;
 }

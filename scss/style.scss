@@ -17,9 +17,15 @@ main {
   img {
     @include floating;
   }
+  p {
+    color: $text-color;
+    font-size: $fs-3;
+  }
   div {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    gap: 5px;
   }
 
   display: flex;
@@ -38,8 +44,6 @@ header {
     ul {
       display: flex;
       gap: 20px;
-      li {
-      }
     }
   }
 }
