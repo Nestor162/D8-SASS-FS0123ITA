@@ -7,6 +7,7 @@ $fs-4: 18px;
 $fs-5: 14px;
 $fs-6: 12px;
 
-.title-big {
+@mixin title-big($color) {
   font-size: $fs-2;
+  color: $color;
 }

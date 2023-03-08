@@ -133,10 +133,6 @@ table {
   border-spacing: 0;
 }
 
-.title-big {
-  font-size: 28px;
-}
-
 .p-bl-sm {
   padding-block: 1rem;
 }
@@ -246,4 +242,9 @@ table {
 
 body {
   font-family: "Rubik", sans-serif;
+}
+
+h1 {
+  font-size: 28px;
+  color: black;
 }/*# sourceMappingURL=style.css.map */
